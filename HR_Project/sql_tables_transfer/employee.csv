@@ -1,0 +1,311 @@
+,EmpID,Employee_Name,MaritalStatusID,Sex,EmploymentStatus,DeptID,FromDiversityJobFairID,Salary,PositionID,State,Zip,DOB,CitizenDesc,HispanicLatino,RaceDesc,DateofHire,Termd,DateofTermination,TermReason,ManagerID,RecruitmentSource,PerformanceScore,EngagementSurvey,EmpSatisfaction,SpecialProjectsCount,LastPerformanceReview_Date,DaysLateLast30,Absences
+0,0,"Adinolfi, Wilson  K",0,M ,Active,0,0,62506,0,MA,1960,1983-07-10,US Citizen,No,White,2011-07-05,0,,,0,LinkedIn,Exceeds,4.6,5,0,2019-01-17,0,1
+1,1,"Ait Sidi, Karthikeyan   ",1,M ,Voluntarily Terminated,1,0,104437,1,MA,2148,1975-05-05,US Citizen,No,White,2015-03-30,1,2016-06-16,career change,1,Indeed,Fully Meets,4.96,3,6,2016-02-24,0,17
+2,2,"Akinkuolie, Sarah",1,F,Voluntarily Terminated,0,0,64955,2,MA,1810,1988-09-19,US Citizen,No,White,2011-07-05,1,2012-09-24,hours,2,LinkedIn,Fully Meets,3.02,3,0,2012-05-15,0,3
+3,3,"Alagbe,Trina",1,F,Active,0,0,64991,0,MA,1886,1988-09-27,US Citizen,No,White,2008-01-07,0,,,3,Indeed,Fully Meets,4.84,5,0,2019-01-03,0,15
+4,4,"Anderson, Carol ",2,F,Voluntarily Terminated,0,0,50825,0,MA,2169,1989-09-08,US Citizen,No,White,2011-07-11,1,2016-09-06,return to school,4,Google Search,Fully Meets,5.0,4,0,2016-02-01,0,2
+5,5,"Anderson, Linda  ",0,F,Active,0,0,57568,0,MA,1844,1977-05-22,US Citizen,No,White,2012-01-09,0,,,5,LinkedIn,Exceeds,5.0,5,0,2019-01-07,0,15
+6,6,"Andreola, Colby",0,F,Active,2,0,95660,3,MA,2110,1979-05-24,US Citizen,No,White,2014-11-10,0,,,6,LinkedIn,Fully Meets,3.04,3,4,2019-01-02,0,19
+7,7,"Athwal, Sam",3,M ,Active,0,0,59365,0,MA,2199,1983-02-18,US Citizen,No,White,2013-09-30,0,,,7,Employee Referral,Fully Meets,5.0,4,0,2019-02-25,0,19
+8,8,"Bachiochi, Linda",0,F,Active,0,1,47837,0,MA,1902,1983-04-26,US Citizen,No,Black or African American,2009-07-06,0,,,8,Diversity Job Fair,Fully Meets,4.46,3,0,2019-01-25,0,4
+9,9,"Bacong, Alejandro ",2,M ,Active,1,0,50178,4,MA,1886,1988-01-07,US Citizen,No,White,2015-01-05,0,,,9,Indeed,Fully Meets,5.0,5,6,2019-02-18,0,16
+10,10,"Baczenski, Rachael  ",1,F,Voluntarily Terminated,0,1,54670,0,MA,1902,1974-01-12,US Citizen,Yes,Black or African American,2011-01-10,1,2017-01-12,Another position,10,Diversity Job Fair,Fully Meets,4.2,4,0,2016-01-30,0,12
+11,11,"Barbara, Thomas",1,M ,Voluntarily Terminated,0,1,47211,0,MA,2062,1974-02-21,US Citizen,Yes,Black or African American,2012-04-02,1,2016-09-19,unhappy,2,Diversity Job Fair,Fully Meets,4.2,3,0,2016-05-06,0,15
+12,12,"Barbossa, Hector",2,M ,Active,1,1,92328,5,TX,78230,1988-07-04,US Citizen,No,Black or African American,2014-11-10,0,,,1,Diversity Job Fair,Exceeds,4.28,4,5,2019-02-25,0,9
+13,13,"Barone, Francesco  A",0,M ,Active,0,0,58709,0,MA,1810,1983-07-20,US Citizen,No,Two or more races,2012-02-20,0,,,11,Google Search,Fully Meets,4.6,4,0,2019-02-14,0,7
+14,14,"Barton, Nader",2,M ,Voluntarily Terminated,0,0,52505,0,MA,2747,1977-07-15,US Citizen,No,White,2012-09-24,1,2017-04-06,Another position,0,On-line Web application,Fully Meets,5.0,5,0,2017-03-02,0,1
+15,15,"Bates, Norman",0,M ,Terminated for Cause,0,0,57834,0,MA,2050,1981-10-18,US Citizen,No,White,2011-02-21,1,2017-08-04,attendance,11,Google Search,Fully Meets,5.0,4,0,2017-04-05,0,20
+16,16,"Beak, Kimberly  ",1,F,Active,0,0,70131,2,MA,2145,1983-04-26,US Citizen,No,White,2016-07-21,0,,,11,Employee Referral,Exceeds,4.4,3,0,2019-01-14,0,16
+17,17,"Beatrice, Courtney ",0,F,Active,0,0,59026,0,MA,1915,1983-04-26,Eligible NonCitizen,No,White,2011-04-04,0,,,3,Google Search,Fully Meets,5.0,5,0,2019-01-14,0,12
+18,18,"Becker, Renee",0,F,Terminated for Cause,1,0,110000,6,MA,2026,1986-04-04,US Citizen,Yes,White,2014-07-07,1,2015-09-12,performance,1,Google Search,Fully Meets,4.5,4,5,2015-01-15,0,8
+19,19,"Becker, Scott",0,M ,Active,0,0,53250,0,MA,2452,1979-04-06,US Citizen,No,Asian,2013-07-08,0,,,4,LinkedIn,Fully Meets,4.2,4,0,2019-01-11,0,13
+20,20,"Bernstein, Sean",0,M ,Active,0,0,51044,0,MA,2072,1983-04-26,US Citizen,Yes,White,2012-04-02,0,,,5,Google Search,Fully Meets,5.0,3,0,2019-01-14,0,13
+21,21,"Biden, Lowan  M",2,F,Active,0,0,64919,0,MA,2027,1983-04-26,US Citizen,No,Asian,2013-08-19,0,,,7,Indeed,Fully Meets,4.2,3,0,2019-01-10,0,2
+22,22,"Billis, Helen",1,F,Active,0,0,62910,0,MA,2031,1989-09-01,US Citizen,No,White,2014-07-07,0,,,8,Indeed,Exceeds,5.0,3,0,2019-02-27,0,19
+23,23,"Blount, Dianna",0,F,Active,0,0,66441,2,MA,2171,1990-09-21,US Citizen,No,White,2011-04-04,0,,,0,CareerBuilder,Needs Improvement,2.0,3,0,2019-02-27,2,3
+24,24,"Bondwell, Betsy",0,F,Voluntarily Terminated,0,0,57815,2,MA,2210,1983-04-26,US Citizen,No,White,2011-01-10,1,2014-04-04,career change,3,Google Search,Fully Meets,4.8,5,0,2014-03-04,0,5
+25,25,"Booth, Frank",0,M ,Terminated for Cause,1,0,103613,7,CT,6033,1983-04-26,US Citizen,No,Black or African American,2014-02-17,1,2016-02-19,Learned that he is a gangster,1,LinkedIn,Fully Meets,3.5,5,7,2016-01-10,0,2
+26,26,"Boutwell, Bonalyn",1,F,Active,3,1,106367,8,MA,2468,1987-04-04,US Citizen,No,Black or African American,2015-02-16,0,,,12,Diversity Job Fair,Fully Meets,5.0,4,3,2019-02-18,0,4
+27,27,"Bozzi, Charles",0,M ,Voluntarily Terminated,0,0,74312,9,MA,1901,1983-04-26,US Citizen,No,Asian,2013-09-30,1,2014-08-07,retiring,13,Indeed,Fully Meets,3.39,3,0,2014-02-20,0,14
+28,28,"Brill, Donna",1,F,Voluntarily Terminated,0,0,53492,0,MA,1701,1990-08-24,US Citizen,No,White,2012-04-02,1,2013-06-15,Another position,10,Google Search,Fully Meets,3.35,4,0,2013-03-04,0,6
+29,29,"Brown, Mia",1,F,Active,3,1,63000,10,MA,1450,1987-11-24,US Citizen,No,Black or African American,2008-10-27,0,,,12,Diversity Job Fair,Fully Meets,4.5,2,6,2019-01-15,0,14
+30,30,"Buccheri, Joseph  ",0,M ,Active,0,0,65288,2,MA,1013,1983-07-28,US Citizen,No,White,2014-09-29,0,,,4,Google Search,Fully Meets,3.19,3,0,2019-02-01,0,9
+31,31,"Bugali, Josephine ",4,F,Active,0,1,64375,0,MA,2043,1983-04-26,US Citizen,No,Black or African American,2013-11-11,0,,,2,Diversity Job Fair,Fully Meets,3.5,5,0,2019-01-21,0,17
+32,32,"Bunbury, Jessica",1,F,Voluntarily Terminated,4,0,74326,11,VA,21851,1983-04-26,Eligible NonCitizen,No,Black or African American,2011-08-15,1,2014-08-02,Another position,14,Google Search,Fully Meets,3.14,5,0,2013-02-10,1,19
+33,33,"Burke, Joelle",0,F,Active,0,0,63763,2,MA,2148,1980-03-02,US Citizen,No,Black or African American,2012-03-05,0,,,5,Employee Referral,Fully Meets,4.51,4,0,2019-02-21,0,3
+34,34,"Burkett, Benjamin ",1,M ,Active,0,0,62162,2,MA,1890,1977-08-19,US Citizen,No,White,2011-04-04,0,,,7,Indeed,Fully Meets,3.25,5,0,2019-01-14,0,15
+35,35,"Cady, Max ",0,M ,Active,2,0,77692,12,MA,2184,1983-04-26,US Citizen,No,White,2011-08-15,0,,,15,Google Search,Fully Meets,3.84,3,5,2019-01-21,0,4
+36,36,"Candie, Calvin",0,M ,Active,0,0,72640,9,MA,2169,1983-08-09,US Citizen,No,White,2016-01-28,0,,,13,Indeed,Exceeds,5.0,3,0,2019-02-22,0,14
+37,37,"Carabbio, Judith",0,F,Active,2,0,93396,3,MA,2132,1987-04-05,US Citizen,No,White,2013-11-11,0,,,6,Indeed,Fully Meets,4.96,4,6,2019-01-30,0,3
+38,38,"Carey, Michael  ",0,M ,Active,0,0,52846,0,MA,1701,1983-02-02,US Citizen,No,Black or African American,2014-03-31,0,,,11,LinkedIn,Fully Meets,4.43,3,0,2019-02-01,0,14
+39,39,"Carr, Claudia  N",0,F,Active,1,0,100031,1,MA,1886,1986-06-06,US Citizen,No,Black or African American,2016-06-30,0,,,1,LinkedIn,Fully Meets,5.0,5,6,2019-02-18,0,7
+40,40,"Carter, Michelle ",0,F,Active,4,0,71860,11,VT,5664,1983-04-26,US Citizen,No,White,2014-08-18,0,,,14,Indeed,Fully Meets,5.0,5,0,2019-01-21,0,7
+41,41,"Chace, Beatrice ",0,F,Active,0,0,61656,0,MA,2763,1983-04-26,US Citizen,No,White,2014-09-29,0,,,0,Google Search,Fully Meets,5.0,4,0,2019-02-12,0,11
+42,42,"Champaigne, Brian",1,M ,Active,1,0,110929,13,MA,2045,1983-04-26,US Citizen,No,White,2016-09-06,0,,,15,Indeed,Fully Meets,4.5,5,7,2019-01-15,0,8
+43,43,"Chan, Lin",0,F,Active,0,0,54237,0,MA,2170,1979-02-12,US Citizen,No,White,2014-05-12,0,,,3,Indeed,Fully Meets,3.3,4,0,2019-02-19,0,11
+44,44,"Chang, Donovan  E",0,M ,Active,0,0,60380,0,MA,1845,1983-08-24,US Citizen,No,White,2013-07-08,0,,,4,LinkedIn,Fully Meets,3.8,5,0,2019-01-14,0,4
+45,45,"Chigurh, Anton",0,M ,Active,4,0,66808,11,TX,78207,1983-04-26,Eligible NonCitizen,No,Black or African American,2012-05-14,0,,,16,Employee Referral,Fully Meets,3.0,5,0,2019-01-19,0,17
+46,46,"Chivukula, Enola",0,F,Voluntarily Terminated,0,0,64786,0,MA,1775,1983-08-27,US Citizen,No,White,2011-06-27,1,2015-11-15,relocation out of area,5,Indeed,Fully Meets,4.3,4,0,2015-03-10,0,3
+47,47,"Cierpiszewski, Caroline  ",0,F,Active,0,0,64816,0,MA,2044,1988-05-31,Non-Citizen,No,Black or African American,2011-10-03,0,,,7,Indeed,Fully Meets,3.58,5,0,2019-01-30,0,3
+48,48,"Clayton, Rick",0,M ,Active,1,0,68678,4,MA,2170,1985-09-05,US Citizen,No,White,2012-09-05,0,,,17,Indeed,Fully Meets,4.7,3,6,2019-02-27,0,2
+49,49,"Cloninger, Jennifer",1,F,Voluntarily Terminated,0,0,64066,2,MA,1752,1981-08-31,US Citizen,No,White,2011-05-16,1,2013-01-07,unhappy,8,Google Search,Fully Meets,4.2,5,0,2012-05-03,0,9
+50,50,"Close, Phil",1,M ,Voluntarily Terminated,0,0,59369,2,MA,2169,1978-11-25,US Citizen,No,White,2010-08-30,1,2011-09-26,career change,10,Indeed,Fully Meets,4.2,4,0,2011-05-04,0,6
+51,51,"Clukey, Elijian",1,M ,Active,0,0,50373,0,MA,2134,1980-08-26,US Citizen,No,White,2016-07-06,0,,,8,Employee Referral,Exceeds,4.1,4,0,2019-02-28,0,5
+52,52,"Cockel, James",0,M ,Active,0,0,63108,0,MA,2452,1977-09-08,US Citizen,No,White,2013-07-08,0,,,10,Employee Referral,Fully Meets,4.4,5,0,2019-01-14,0,3
+53,53,"Cole, Spencer",0,M ,Terminated for Cause,0,0,59144,0,MA,1880,1979-08-12,US Citizen,No,Black or African American,2011-07-11,1,2016-09-23,performance,2,LinkedIn,Needs Improvement,2.0,3,0,2016-05-01,5,16
+54,54,"Corleone, Michael",2,M ,Active,0,0,68051,9,MA,1803,1975-12-17,US Citizen,No,White,2010-07-20,0,,,13,CareerBuilder,Needs Improvement,4.13,2,0,2019-01-14,3,3
+55,55,"Corleone, Vito",0,M ,Active,0,0,170500,14,MA,2030,1983-03-19,US Citizen,No,Black or African American,2009-01-05,0,,,13,Indeed,Exceeds,3.7,5,0,2019-02-04,0,15
+56,56,"Cornett, Lisa ",1,F,Active,0,0,63381,0,MA,2189,1977-03-31,US Citizen,Yes,White,2015-01-05,0,,,11,Indeed,Fully Meets,4.73,5,0,2019-02-14,0,6
+57,57,"Costello, Frank",1,M ,Active,1,0,83552,5,MA,1810,1986-08-26,US Citizen,No,White,2015-03-30,0,,,1,Indeed,Fully Meets,3.04,3,6,2019-01-22,0,2
+58,58,"Crimmings,   Jean",0,F,Active,0,0,56149,0,MA,1821,1987-04-10,US Citizen,No,White,2016-07-06,0,,,0,LinkedIn,Fully Meets,4.12,5,0,2019-01-28,0,15
+59,59,"Cross, Noah",0,M ,Active,1,0,92329,15,CT,6278,1983-04-26,US Citizen,No,White,2014-11-10,0,,,9,Employee Referral,Fully Meets,5.0,3,4,2019-01-02,0,5
+60,60,"Daneault, Lynn",0,F,Active,4,0,65729,16,VT,5473,1990-04-19,US Citizen,No,White,2014-05-05,0,,,18,Indeed,Fully Meets,4.62,4,0,2019-01-24,0,8
+61,61,"Daniele, Ann  ",1,F,Active,1,0,85028,15,CT,6033,1983-04-26,US Citizen,No,White,2014-11-10,0,,,9,LinkedIn,Fully Meets,3.1,5,8,2019-02-12,0,19
+62,62,"Darson, Jene'ya ",1,F,Active,0,0,57583,0,MA,2110,1978-11-05,US Citizen,No,White,2012-07-02,0,,,3,Indeed,Fully Meets,5.0,3,0,2019-02-25,0,1
+63,63,"Davis, Daniel",0,M ,Active,0,0,56294,2,MA,2458,1979-09-14,Eligible NonCitizen,No,Two or more races,2011-11-07,0,,,2,LinkedIn,Fully Meets,3.96,4,0,2019-02-27,0,6
+64,64,"Dee, Randy",1,M ,Active,0,0,56991,0,MA,2138,1988-04-15,US Citizen,No,White,2018-07-09,0,,,8,Indeed,Fully Meets,4.3,4,3,2019-01-31,2,2
+65,65,"DeGweck,  James",1,M ,Voluntarily Terminated,0,0,55722,0,MA,1810,1977-10-31,US Citizen,No,White,2011-05-16,1,2016-06-08,unhappy,4,Indeed,Fully Meets,5.0,4,0,2016-04-02,0,14
+66,66,"Del Bosque, Keyla",0,F,Active,2,0,101199,3,MA,2176,1979-07-05,US Citizen,No,Black or African American,2012-01-09,0,,,6,CareerBuilder,Fully Meets,3.79,5,5,2019-01-25,0,8
+67,67,"Delarge, Alex",0,M ,Active,4,0,61568,11,AL,36006,1975-11-02,US Citizen,No,Two or more races,2014-09-29,0,,,14,Indeed,PIP,1.93,3,0,2019-01-30,6,5
+68,68,"Demita, Carla",4,F,Voluntarily Terminated,0,0,58275,2,MA,2343,1983-04-26,US Citizen,No,Black or African American,2011-04-04,1,2015-11-04,more money,11,Google Search,Fully Meets,4.62,5,0,2015-05-06,0,1
+69,69,"Desimone, Carl ",1,M ,Active,0,0,53189,0,MA,2061,1983-04-26,US Citizen,No,White,2014-07-07,0,,,5,Indeed,PIP,1.12,2,0,2019-01-31,4,9
+70,70,"DeVito, Tommy",0,M ,Active,1,0,96820,17,MA,2045,1983-09-04,US Citizen,No,White,2017-02-15,0,,,19,Indeed,Fully Meets,3.01,5,7,2019-01-23,0,15
+71,71,"Dickinson, Geoff ",0,M ,Active,0,0,51259,0,MA,2180,1982-11-15,US Citizen,No,White,2014-05-12,0,,,7,Indeed,Fully Meets,4.3,4,0,2019-02-19,0,1
+72,72,"Dietrich, Jenna  ",0,F,Active,4,0,59231,11,WA,98052,1987-05-14,US Citizen,Yes,White,2012-02-20,0,,,14,Website,PIP,2.3,1,0,2019-01-29,2,17
+73,73,"DiNocco, Lily ",1,F,Active,0,0,61584,0,MA,2351,1978-12-02,US Citizen,No,Black or African American,2013-01-07,0,,,8,Indeed,Needs Improvement,3.88,4,0,2019-01-18,0,6
+74,74,"Dobrin, Denisa  S",0,F,Active,0,0,46335,0,MA,2125,1986-10-07,US Citizen,Yes,White,2012-04-02,0,,,10,CareerBuilder,Fully Meets,3.4,5,0,2019-02-19,0,15
+75,75,"Dolan, Linda",1,F,Active,1,0,70621,4,MA,2119,1988-07-18,US Citizen,No,White,2015-01-05,0,,,9,Employee Referral,Fully Meets,4.11,4,6,2019-02-25,0,16
+76,76,"Dougall, Eric",0,M ,Active,1,0,138888,18,MA,1886,1983-04-26,US Citizen,No,Black or African American,2014-01-05,0,,,15,Indeed,Exceeds,4.3,5,5,2019-01-04,0,4
+77,77,"Driver, Elle",0,F,Active,4,0,74241,11,CA,90007,1988-11-08,US Citizen,No,White,2011-01-10,0,,,16,Indeed,Exceeds,4.77,5,0,2019-01-27,0,14
+78,78,"Dunn, Amy  ",0,F,Active,0,0,75188,9,MA,1731,1983-04-26,US Citizen,No,White,2014-09-18,0,,,13,Google Search,Fully Meets,4.52,4,0,2019-01-15,0,4
+79,79,"Dunne, Amy",1,F,Active,0,0,62514,0,MA,1749,1983-04-26,US Citizen,No,White,2010-04-26,0,,,7,Google Search,Fully Meets,2.9,3,0,2019-01-21,0,6
+80,80,"Eaton, Marianne",1,F,Voluntarily Terminated,0,0,60070,0,MA,2343,1991-09-05,US Citizen,No,White,2011-04-04,1,2017-06-06,military,2,Google Search,Fully Meets,5.0,3,0,2017-04-09,0,7
+81,81,"Engdahl, Jean",0,M ,Active,0,0,48888,0,MA,2026,1974-05-31,US Citizen,No,White,2014-11-10,0,,,11,LinkedIn,Fully Meets,4.7,5,0,2019-02-13,0,8
+82,82,"England, Rex",1,M ,Active,0,0,54285,0,MA,2045,1978-08-25,US Citizen,No,White,2014-03-31,0,,,11,Employee Referral,Fully Meets,4.2,3,0,2019-01-11,0,3
+83,83,"Erilus, Angela",4,F,Active,0,0,56847,2,MA,2133,1989-08-25,US Citizen,No,White,2014-07-07,0,,,0,Indeed,PIP,3.0,1,0,2019-02-25,2,5
+84,84,"Estremera, Miguel",0,M ,Terminated for Cause,0,0,60340,0,MA,2129,1983-09-02,US Citizen,No,White,2012-04-02,1,2018-09-27,attendance,0,Google Search,Needs Improvement,5.0,4,0,2018-04-12,5,16
+85,85,"Evensen, April",0,F,Terminated for Cause,0,0,59124,0,MA,2458,1989-05-06,US Citizen,No,White,2014-02-17,1,2018-02-25,"no-call, no-show",3,Google Search,Needs Improvement,2.3,3,0,2017-01-15,5,19
+86,86,"Exantus, Susan",1,F,Terminated for Cause,2,0,99280,3,MA,1749,1987-05-15,US Citizen,No,Black or African American,2011-05-02,1,2013-06-05,attendance,6,Indeed,Needs Improvement,2.1,5,4,2012-08-10,4,19
+87,87,"Faller, Megan ",1,F,Active,0,0,71776,2,MA,1824,1978-09-22,US Citizen,No,Black or African American,2014-07-07,0,,,3,LinkedIn,Fully Meets,4.4,5,0,2019-02-22,0,17
+88,88,"Fancett, Nicole",0,F,Active,0,0,65902,2,MA,2324,1987-09-27,US Citizen,No,Black or African American,2014-02-17,0,,,4,LinkedIn,Fully Meets,4.0,4,0,2019-01-07,0,7
+89,89,"Ferguson, Susan",1,F,Voluntarily Terminated,0,0,57748,0,MA,2176,1983-04-26,US Citizen,No,White,2011-11-07,1,2016-05-17,military,4,Google Search,Fully Meets,3.13,3,0,2016-02-04,0,16
+90,90,"Fernandes, Nilson  ",1,M ,Active,0,0,64057,0,MA,2132,1989-10-18,US Citizen,No,White,2015-05-11,0,,,5,Indeed,PIP,1.56,5,0,2019-01-03,6,15
+91,91,"Fett, Boba",0,M ,Active,1,0,53366,19,MA,2138,1987-06-18,US Citizen,No,White,2015-03-30,0,,,9,LinkedIn,PIP,1.2,3,6,2019-02-04,3,2
+92,92,"Fidelia,  Libby",1,F,Active,0,0,58530,0,MA,2155,1981-03-16,US Citizen,No,White,2012-01-09,0,,,8,Google Search,Fully Meets,5.0,5,0,2019-01-29,0,19
+93,93,"Fitzpatrick, Michael  J",0,M ,Voluntarily Terminated,0,0,72609,2,MA,2143,1981-10-01,US Citizen,Yes,White,2011-05-16,1,2013-06-24,hours,5,Google Search,Fully Meets,4.76,5,0,2013-04-05,0,20
+94,94,"Foreman, Tanya",1,F,Voluntarily Terminated,0,0,55965,2,MA,2170,1983-11-08,US Citizen,No,White,2011-04-04,1,2013-01-09,career change,7,Google Search,Fully Meets,3.66,3,0,2012-01-07,0,6
+95,95,"Forrest, Alex",1,M ,Terminated for Cause,4,0,70187,11,MA,2330,1975-07-07,US Citizen,No,White,2014-09-29,1,2018-08-19,Fatal attraction,16,Employee Referral,PIP,2.0,5,0,2018-01-28,4,7
+96,96,"Foss, Jason",0,M ,Active,1,0,178000,20,MA,1460,1980-07-05,US Citizen,No,Black or African American,2011-04-15,0,,,15,Indeed,Exceeds,5.0,5,5,2019-01-07,0,15
+97,97,"Foster-Baker, Amy",1,F,Active,3,0,99351,8,MA,2050,1979-04-16,US Citizen,No,White,2009-01-05,0,,,20,Other,Fully Meets,5.0,3,2,2019-02-08,0,3
+98,98,"Fraval, Maruk ",0,M ,Active,4,0,67251,11,CT,6050,1983-04-26,US Citizen,No,Black or African American,2011-09-06,0,,,16,CareerBuilder,Fully Meets,4.3,3,0,2019-01-27,2,7
+99,99,"Galia, Lisa",0,F,Active,1,0,65707,4,CT,6040,1983-04-26,US Citizen,No,White,2010-05-01,0,,,17,LinkedIn,Fully Meets,4.7,4,5,2019-02-01,0,1
+100,100,"Garcia, Raul",0,M ,Active,0,0,52249,0,MA,1905,1985-09-15,US Citizen,Yes,White,2015-03-30,0,,,10,Employee Referral,Fully Meets,4.5,3,0,2019-02-18,0,5
+101,101,"Gaul, Barbara",0,F,Active,0,0,53171,0,MA,2121,1983-12-02,US Citizen,Yes,Black or African American,2011-05-16,0,,,11,LinkedIn,Fully Meets,4.2,4,0,2019-02-26,0,12
+102,102,"Gentry, Mildred",1,F,Active,0,0,51337,0,MA,2145,1990-10-01,US Citizen,No,Black or African American,2015-03-30,0,,,0,LinkedIn,Fully Meets,3.73,3,0,2019-01-16,0,19
+103,103,"Gerke, Melisa",2,F,Voluntarily Terminated,0,1,51505,0,MA,2330,1983-04-26,US Citizen,No,Black or African American,2011-11-07,1,2016-11-15,hours,3,Diversity Job Fair,Fully Meets,4.24,4,0,2016-04-29,0,2
+104,104,"Gill, Whitney  ",3,F,Terminated for Cause,4,0,59370,11,OH,43050,1983-04-26,US Citizen,No,Black or African American,2014-07-07,1,2015-09-05,attendance,14,CareerBuilder,Fully Meets,3.97,4,0,2015-01-15,0,7
+105,105,"Gilles, Alex",1,M ,Voluntarily Terminated,0,1,54933,0,MA,2062,1974-08-09,US Citizen,No,Black or African American,2012-04-02,1,2015-06-25,military,4,Diversity Job Fair,Needs Improvement,3.97,4,0,2015-01-20,3,15
+106,106,"Girifalco, Evelyn",0,F,Active,0,0,57815,0,MA,2451,1980-05-08,US Citizen,Yes,Two or more races,2014-09-29,0,,,5,Indeed,Exceeds,3.9,4,0,2019-02-07,0,3
+107,107,"Givens, Myriam",0,F,Active,4,0,61555,11,IN,46204,1989-09-22,US Citizen,No,White,2015-02-16,0,,,16,Indeed,Fully Meets,4.5,5,0,2019-01-25,0,20
+109,109,"Goeth, Amon",1,M ,Active,1,0,74679,4,MA,2135,1989-11-24,US Citizen,Yes,White,2015-03-30,0,,,9,LinkedIn,Fully Meets,4.3,5,7,2019-01-10,0,20
+110,110,"Gold, Shenice  ",0,F,Active,0,0,53018,0,MA,2451,1992-06-18,US Citizen,Yes,White,2013-11-11,0,,,7,Indeed,Fully Meets,4.3,5,0,2019-02-18,0,7
+111,111,"Gonzalez, Cayo",2,M ,Active,0,1,59892,0,MA,2108,1983-04-26,US Citizen,No,Black or African American,2011-07-11,0,,,8,Diversity Job Fair,Exceeds,4.5,4,0,2019-02-18,0,1
+112,112,"Gonzalez, Juan",1,M ,Voluntarily Terminated,0,1,68898,2,MA,2128,1983-04-26,US Citizen,No,Black or African American,2010-04-26,1,2011-05-30,career change,8,Diversity Job Fair,PIP,3.0,3,0,2011-03-06,3,10
+113,113,"Gonzalez, Maria",4,F,Active,1,0,61242,4,MA,2472,1981-04-16,US Citizen,Yes,White,2015-01-05,0,,,9,Employee Referral,Fully Meets,4.61,4,5,2019-01-28,0,11
+114,114,"Good, Susan",1,F,Active,0,0,66825,2,MA,1886,1986-05-25,US Citizen,No,White,2014-05-12,0,,,10,LinkedIn,Fully Meets,4.6,3,0,2019-02-07,0,20
+115,115,"Gordon, David",1,M ,Active,0,0,48285,0,MA,2169,1979-05-21,US Citizen,No,White,2012-07-02,0,,,10,LinkedIn,Fully Meets,5.0,3,0,2019-01-14,0,2
+116,116,"Gosciminski, Phylicia  ",4,F,Active,0,0,66149,2,MA,1824,1983-12-08,US Citizen,No,American Indian or Alaska Native,2013-09-30,0,,,2,Google Search,Fully Meets,4.4,5,0,2019-02-21,0,1
+117,117,"Goyal, Roxana",1,F,Active,0,0,49256,0,MA,1864,1974-10-09,US Citizen,No,Asian,2013-08-19,0,,,2,LinkedIn,Fully Meets,4.1,5,0,2019-02-15,0,3
+118,118,"Gray, Elijiah  ",2,M ,Active,0,0,62957,9,MA,1752,1981-07-11,US Citizen,No,White,2015-06-02,0,,,13,Employee Referral,Fully Meets,4.63,3,0,2019-01-04,0,2
+119,119,"Gross, Paula",2,F,Voluntarily Terminated,0,0,63813,0,MA,2176,1983-05-21,US Citizen,No,White,2011-02-21,1,2014-01-11,more money,11,CareerBuilder,Fully Meets,5.0,5,0,2013-06-03,0,17
+120,120,"Gruber, Hans",1,M ,Active,1,0,99020,17,MA,2134,1989-06-30,US Citizen,No,Black or African American,2017-04-20,0,,,19,Indeed,Fully Meets,4.2,5,5,2019-01-28,0,8
+121,121,"Guilianno, Mike",0,M ,Voluntarily Terminated,4,0,71707,11,TN,37129,1983-04-26,US Citizen,No,Two or more races,2012-03-07,1,2014-10-31,relocation out of area,14,LinkedIn,Fully Meets,4.5,5,0,2013-02-01,0,20
+122,122,"Handschiegl, Joanne",1,F,Active,0,0,54828,0,MA,2127,1977-03-23,US Citizen,No,White,2011-11-28,0,,,0,Google Search,Fully Meets,4.2,4,0,2019-02-22,0,13
+123,123,"Hankard, Earnest",0,M ,Active,0,0,64246,2,MA,2155,1988-08-10,US Citizen,Yes,White,2013-11-11,0,,,11,LinkedIn,Fully Meets,5.0,3,0,2019-01-08,0,20
+124,124,"Harrington, Christie ",0,F,Voluntarily Terminated,0,0,52177,0,MA,2324,1983-04-26,US Citizen,No,White,2012-01-09,1,2015-12-15,retiring,4,CareerBuilder,Fully Meets,4.64,4,0,2015-05-02,0,8
+125,125,"Harrison, Kara",1,F,Active,0,0,62065,0,MA,1886,1974-05-02,US Citizen,No,White,2014-05-12,0,,,5,CareerBuilder,Exceeds,4.76,4,0,2019-02-15,0,5
+126,126,"Heitzman, Anthony",0,M ,Active,0,0,46998,0,MA,2149,1984-01-04,US Citizen,No,White,2012-08-13,0,,,7,Google Search,Fully Meets,4.17,4,0,2019-02-11,0,1
+127,127,"Hendrickson, Trina",0,F,Voluntarily Terminated,0,0,68099,2,MA,2021,1983-04-26,US Citizen,No,White,2011-01-10,1,2013-06-18,hours,11,CareerBuilder,Fully Meets,5.0,3,0,2013-01-30,0,15
+128,128,"Hitchcock, Alfred",1,M ,Active,4,0,70545,11,NH,3062,1988-09-14,US Citizen,No,American Indian or Alaska Native,2014-08-18,0,,,14,Indeed,Fully Meets,3.6,5,0,2019-01-30,0,9
+129,129,"Homberger, Adrienne  J",1,F,Voluntarily Terminated,0,0,63478,2,MA,2445,1984-02-16,Non-Citizen,No,White,2011-08-15,1,2012-04-07,relocation out of area,0,Indeed,Fully Meets,3.03,5,0,2012-03-05,0,16
+130,130,"Horton, Jayne",0,F,Active,1,0,97999,6,MA,2493,1984-02-21,US Citizen,No,White,2015-03-30,0,,,1,Indeed,Fully Meets,4.48,5,6,2019-01-03,0,4
+131,131,"Houlihan, Debra",1,F,Active,4,0,180000,21,RI,2908,1983-04-26,US Citizen,No,White,2014-05-05,0,,,13,LinkedIn,Fully Meets,4.5,4,0,2019-01-21,0,19
+132,132,"Howard, Estelle",1,F,Terminated for Cause,3,0,49920,22,MA,2170,1985-09-16,US Citizen,No,Black or African American,2015-02-16,1,2015-04-15,"no-call, no-show",12,Indeed,Fully Meets,3.24,3,4,2015-04-15,0,6
+133,133,"Hudson, Jane",0,F,Active,0,0,55425,0,MA,2176,1986-06-10,US Citizen,No,White,2012-02-20,0,,,7,LinkedIn,Fully Meets,4.8,4,0,2019-01-07,0,4
+134,134,"Hunts, Julissa",0,F,Active,0,0,69340,2,MA,2021,1984-03-11,US Citizen,No,White,2016-06-06,0,,,3,LinkedIn,Fully Meets,3.0,5,0,2019-01-18,0,4
+135,135,"Hutter, Rosalie",4,F,Active,0,0,64995,2,MA,2351,1992-05-07,US Citizen,No,White,2015-06-05,0,,,4,Indeed,Fully Meets,4.5,3,0,2019-02-14,0,6
+136,136,"Huynh, Ming",2,F,Voluntarily Terminated,0,0,68182,2,MA,1742,1976-09-22,US Citizen,No,White,2011-02-21,1,2013-04-01,unhappy,5,Google Search,Fully Meets,3.72,3,0,2013-02-01,0,18
+137,137,"Immediato, Walter",1,M ,Voluntarily Terminated,0,0,83082,9,MA,2128,1976-11-15,US Citizen,No,Asian,2011-02-21,1,2012-09-24,unhappy,13,Indeed,Needs Improvement,2.34,2,0,2012-04-12,3,4
+138,138,"Ivey, Rose ",0,F,Active,0,0,51908,0,MA,1775,1991-01-28,US Citizen,No,White,2013-08-19,0,,,8,Indeed,Fully Meets,3.99,3,0,2019-01-14,0,14
+139,139,"Jackson, Maryellen",0,F,Active,0,0,61242,0,MA,2081,1983-04-26,US Citizen,No,Black or African American,2012-11-05,0,,,10,LinkedIn,Fully Meets,4.1,3,0,2019-01-17,0,7
+140,140,"Jacobi, Hannah  ",2,F,Active,0,0,45069,0,MA,1778,1983-04-26,US Citizen,No,White,2013-09-30,0,,,2,Employee Referral,Fully Meets,4.3,5,0,2019-02-22,0,7
+141,141,"Jeannite, Tayana",2,F,Active,0,0,60724,2,MA,1821,1986-11-06,US Citizen,No,American Indian or Alaska Native,2011-07-05,0,,,7,LinkedIn,Exceeds,4.6,4,0,2019-02-25,0,11
+142,142,"Jhaveri, Sneha  ",4,F,Active,0,0,60436,0,MA,2109,1983-04-26,US Citizen,No,White,2014-01-06,0,,,11,LinkedIn,Fully Meets,5.0,5,0,2019-01-21,0,9
+143,143,"Johnson, George",1,M ,Voluntarily Terminated,0,0,46837,0,MA,2445,1983-04-26,US Citizen,No,White,2011-11-07,1,2018-04-29,more money,0,CareerBuilder,Exceeds,4.7,4,0,2018-02-14,0,9
+144,144,"Johnson, Noelle ",1,F,Active,1,0,105700,6,MA,2301,1986-11-07,US Citizen,No,Asian,2015-01-05,0,,,1,Indeed,Fully Meets,3.75,3,5,2019-02-11,0,2
+145,145,"Johnston, Yen",0,F,Active,0,0,63322,2,MA,2128,1983-04-26,US Citizen,No,White,2014-07-07,0,,,8,LinkedIn,Exceeds,4.3,3,0,2019-01-11,0,1
+146,146,"Jung, Judy  ",1,F,Voluntarily Terminated,0,0,61154,0,MA,2446,1986-04-17,US Citizen,No,Black or African American,2011-01-10,1,2016-04-01,unhappy,3,CareerBuilder,Fully Meets,4.0,4,0,2016-02-03,0,4
+147,147,"Kampew, Donysha",0,F,Voluntarily Terminated,4,0,68999,16,PA,19444,1989-11-11,US Citizen,No,White,2011-11-07,1,2014-04-24,maternity leave - did not return,18,Google Search,Fully Meets,4.5,5,0,2013-03-30,0,2
+148,148,"Keatts, Kramer ",0,M ,Active,0,0,50482,0,MA,1887,1976-01-19,US Citizen,No,White,2013-09-30,0,,,0,Indeed,Fully Meets,3.07,4,0,2019-01-23,0,10
+149,149,"Khemmich, Bartholemew",0,M ,Active,4,0,65310,11,CO,80820,1979-11-27,US Citizen,No,White,2013-08-19,0,,,16,Indeed,Fully Meets,4.3,5,0,2019-01-22,0,13
+150,150,"King, Janet",1,F,Active,5,0,250000,23,MA,1902,1983-04-26,US Citizen,Yes,White,2012-07-02,0,,,20,Indeed,Fully Meets,4.83,3,0,2019-01-17,0,10
+151,151,"Kinsella, Kathleen  ",1,F,Voluntarily Terminated,0,0,54005,0,MA,2170,1983-04-26,US Citizen,No,White,2011-09-26,1,2015-06-04,more money,4,Google Search,Fully Meets,3.6,5,0,2015-03-01,0,16
+152,152,"Kirill, Alexandra  ",1,F,Voluntarily Terminated,0,0,45433,0,MA,2127,1983-04-26,US Citizen,No,White,2011-09-26,1,2014-01-09,more money,5,Google Search,Fully Meets,3.49,4,0,2013-01-30,0,6
+153,153,"Knapp, Bradley  J",0,M ,Active,0,0,46654,0,MA,1721,1977-11-10,US Citizen,No,Black or African American,2014-02-17,0,,,7,LinkedIn,Fully Meets,3.1,3,0,2019-02-06,0,3
+154,154,"Kretschmer, John",1,M ,Active,0,0,63973,0,MA,1801,1980-02-02,US Citizen,No,Asian,2011-01-10,0,,,8,Indeed,Fully Meets,3.38,3,0,2019-01-21,0,17
+155,155,"Kreuger, Freddy",0,M ,Active,4,1,71339,11,NY,10171,1983-04-26,US Citizen,Yes,Black or African American,2011-03-07,0,,,14,Diversity Job Fair,Fully Meets,3.65,5,0,2019-01-17,0,20
+156,156,"Lajiri,  Jyoti",1,M ,Active,1,0,93206,15,MA,2169,1986-04-23,US Citizen,No,White,2014-11-10,0,,,9,Employee Referral,Fully Meets,4.46,5,6,2019-01-07,0,7
+157,157,"Landa, Hans",1,M ,Terminated for Cause,0,0,82758,9,MA,1890,1983-04-26,US Citizen,No,White,2011-01-10,1,2015-12-12,attendance,13,Employee Referral,Fully Meets,4.78,4,0,2015-02-15,0,9
+158,158,"Langford, Lindsey",2,F,Voluntarily Terminated,0,0,66074,2,MA,2090,1979-07-25,US Citizen,No,Asian,2013-01-07,1,2014-03-31,Another position,10,Indeed,Fully Meets,4.52,3,0,2014-02-20,0,20
+159,159,"Langton, Enrico",1,M ,Active,0,0,46120,0,MA,2048,1986-12-09,US Citizen,No,White,2012-07-09,0,,,10,LinkedIn,Fully Meets,5.0,5,0,2019-02-04,0,13
+160,160,"LaRotonda, William  ",2,M ,Active,3,0,64520,10,MA,1460,1984-04-26,US Citizen,No,Black or African American,2014-01-06,0,,,12,Website,Fully Meets,5.0,4,4,2019-01-17,0,3
+161,161,"Latif, Mohammed",1,M ,Voluntarily Terminated,0,0,61962,2,MA,2126,1984-05-09,US Citizen,No,White,2012-04-02,1,2013-04-15,more money,2,Google Search,Fully Meets,4.9,3,0,2013-02-20,0,20
+162,162,"Le, Binh",0,F,Active,1,0,81584,24,MA,1886,1987-06-14,US Citizen,No,Asian,2016-10-02,0,,,19,Indeed,Fully Meets,4.1,5,7,2019-01-08,0,2
+163,163,"Leach, Dallas",0,F,Voluntarily Terminated,0,0,63676,0,MA,1810,1979-01-17,US Citizen,No,Asian,2011-09-26,1,2018-08-19,return to school,2,CareerBuilder,Fully Meets,4.88,3,0,2017-07-02,0,17
+164,164,"LeBlanc, Brandon  R",1,M ,Active,3,0,93046,25,MA,1460,1984-06-10,US Citizen,No,White,2016-01-05,0,,,13,CareerBuilder,Fully Meets,4.1,4,0,2019-01-28,0,20
+165,165,"Lecter, Hannibal",1,M ,Active,0,0,64738,0,MA,1776,1982-09-02,US Citizen,No,Asian,2012-05-14,0,,,3,Google Search,Fully Meets,4.1,3,0,2019-02-22,0,10
+166,166,"Leruth, Giovanni",4,M ,Active,4,0,70468,11,UT,84111,1988-12-27,US Citizen,No,Black or African American,2012-04-30,0,,,14,Website,Fully Meets,4.53,3,0,2019-01-29,0,16
+167,167,"Liebig, Ketsia",1,F,Active,0,0,77915,9,MA,2110,1981-10-26,US Citizen,No,White,2013-09-30,0,,,13,Website,Exceeds,4.1,3,0,2019-01-21,0,11
+168,168,"Linares, Marilyn ",1,F,Voluntarily Terminated,0,0,52624,0,MA,1886,1981-03-26,US Citizen,No,White,2011-07-05,1,2018-09-26,unhappy,0,Indeed,Fully Meets,3.18,4,0,2018-03-02,0,16
+169,169,"Linden, Mathew",1,M ,Active,0,0,63450,2,MA,1770,1979-03-19,US Citizen,No,White,2013-07-08,0,,,11,LinkedIn,Fully Meets,4.0,3,0,2019-02-18,0,7
+170,170,"Lindsay, Leonara ",0,F,Active,1,1,51777,4,CT,6070,1988-10-05,US Citizen,Yes,Black or African American,2011-01-21,0,,,17,Diversity Job Fair,Exceeds,4.64,4,5,2019-01-25,0,14
+171,171,"Lundy, Susan",3,F,Voluntarily Terminated,0,0,67237,2,MA,2122,1976-12-26,US Citizen,No,White,2013-07-08,1,2016-09-15,more money,0,LinkedIn,Fully Meets,4.65,4,0,2016-06-10,0,15
+172,172,"Lunquist, Lisa",0,F,Active,0,0,73330,2,MA,2324,1982-03-28,US Citizen,No,Black or African American,2013-08-19,0,,,3,Indeed,Exceeds,4.2,4,0,2019-02-12,0,19
+173,173,"Lydon, Allison",1,F,Active,0,0,52057,0,MA,2122,1975-10-22,US Citizen,No,Black or African American,2015-02-16,0,,,3,Website,Fully Meets,5.0,3,0,2019-01-23,0,6
+174,174,"Lynch, Lindsay",0,F,Voluntarily Terminated,0,1,47434,0,MA,1844,1983-04-26,US Citizen,Yes,Black or African American,2011-11-07,1,2015-11-14,Another position,4,Diversity Job Fair,Exceeds,5.0,4,0,2015-02-02,0,17
+175,175,"MacLennan, Samuel",3,M ,Voluntarily Terminated,0,0,52788,0,MA,1938,1983-04-26,US Citizen,No,White,2012-09-24,1,2017-09-26,hours,5,Indeed,Fully Meets,3.08,4,0,2017-04-01,0,18
+176,176,"Mahoney, Lauren  ",0,F,Active,0,0,45395,0,MA,2189,1986-07-07,US Citizen,No,White,2014-01-06,0,,,7,LinkedIn,Fully Meets,4.6,4,0,2019-02-26,0,14
+177,177,"Manchester, Robyn",1,F,Active,0,0,62385,2,MA,2324,1976-08-25,US Citizen,No,White,2016-05-11,0,,,4,LinkedIn,Fully Meets,5.0,3,0,2019-01-21,0,4
+178,178,"Mancuso, Karen",1,F,Voluntarily Terminated,0,0,68407,2,MA,2176,1986-12-10,US Citizen,No,Two or more races,2011-07-05,1,2012-08-19,Another position,5,LinkedIn,Fully Meets,5.0,4,0,2012-07-02,0,16
+179,179,"Mangal, Debbie",1,F,Active,0,0,61349,0,MA,2451,1974-11-07,US Citizen,No,White,2013-11-11,0,,,8,LinkedIn,Fully Meets,4.1,3,0,2019-01-22,0,11
+180,180,"Martin, Sandra",0,F,Active,2,0,105688,3,MA,2135,1987-11-07,US Citizen,No,Asian,2013-11-11,0,,,6,Google Search,Fully Meets,4.5,5,4,2019-01-14,0,14
+181,181,"Maurice, Shana",1,F,Active,0,0,54132,0,MA,2330,1977-11-22,US Citizen,No,White,2011-05-31,0,,,10,Indeed,Fully Meets,5.0,4,0,2019-01-10,0,8
+182,182,"Carthy, B'rigit",0,F,Active,0,0,55315,2,MA,2149,1987-05-21,US Citizen,No,Black or African American,2015-03-30,0,,,7,LinkedIn,Fully Meets,5.0,5,0,2019-02-07,0,16
+183,183,"Mckenna, Sandy",1,F,Active,0,0,62810,0,MA,2184,1987-01-07,US Citizen,No,Black or African American,2013-01-07,0,,,2,CareerBuilder,Fully Meets,3.93,3,0,2019-01-30,0,20
+184,184,"McKinzie, Jac",1,M ,Active,4,0,63291,11,TX,78789,1984-07-01,US Citizen,No,Two or more races,2016-07-06,0,,,16,Website,Fully Meets,3.4,4,0,2019-01-29,0,7
+185,185,"Meads, Elizabeth",0,F,Voluntarily Terminated,0,1,62659,0,MA,1760,1983-04-26,US Citizen,No,Black or African American,2012-04-02,1,2016-11-11,Another position,11,Diversity Job Fair,Fully Meets,4.18,4,0,2016-02-05,0,17
+186,186,"Medeiros, Jennifer",0,F,Active,0,0,55688,0,MA,2346,1976-09-22,US Citizen,No,White,2015-03-30,0,,,0,CareerBuilder,Fully Meets,5.0,4,0,2019-01-21,0,10
+187,187,"Miller, Brannon",0,M ,Active,0,0,83667,9,MA,2045,1981-08-10,US Citizen,Yes,Hispanic,2012-08-16,0,,,13,Indeed,Fully Meets,4.37,3,0,2019-01-14,0,2
+188,188,"Miller, Ned",0,M ,Voluntarily Terminated,0,0,55800,2,MA,2472,1985-06-29,US Citizen,No,White,2011-08-15,1,2014-09-04,unhappy,8,LinkedIn,PIP,3.0,2,0,2013-01-14,6,6
+189,189,"Monkfish, Erasumus",1,M ,Active,0,0,58207,2,MA,1450,1992-08-17,US Citizen,No,White,2011-11-07,0,,,10,LinkedIn,Fully Meets,3.7,3,0,2019-01-08,0,14
+190,190,"Monroe, Peter",1,M ,Active,1,1,157000,26,MA,2134,1986-10-05,Eligible NonCitizen,Yes,Black or African American,2012-02-15,0,,,15,Diversity Job Fair,Needs Improvement,2.39,3,6,2019-02-22,4,13
+191,191,"Monterro, Luisa",0,F,Active,0,0,72460,2,MA,2126,1983-04-26,US Citizen,No,Black or African American,2013-05-13,0,,,2,Indeed,Exceeds,4.7,3,0,2019-01-14,0,1
+192,192,"Moran, Patrick",0,M ,Active,0,1,72106,2,MA,2127,1976-12-03,US Citizen,No,Black or African American,2012-01-09,0,,,11,Diversity Job Fair,Fully Meets,4.1,4,0,2019-01-31,0,12
+193,193,"Morway, Tanya",1,F,Active,1,0,52599,19,MA,2048,1979-04-04,US Citizen,No,White,2015-02-16,0,,,9,CareerBuilder,Fully Meets,3.81,3,6,2019-02-11,0,6
+194,194,"Motlagh,  Dawn",2,F,Active,0,0,63430,0,MA,2453,1984-07-07,US Citizen,No,White,2013-04-01,0,,,3,LinkedIn,Fully Meets,4.4,4,0,2019-01-17,0,18
+195,195,"Moumanil, Maliki ",4,M ,Active,0,0,74417,2,MA,1460,1974-12-01,US Citizen,No,Black or African American,2013-05-13,0,,,0,LinkedIn,Fully Meets,4.29,5,0,2019-01-28,0,11
+196,196,"Myers, Michael",0,M ,Active,0,0,57575,0,MA,1550,1980-04-18,US Citizen,No,Asian,2013-07-08,0,,,2,LinkedIn,Fully Meets,4.1,4,0,2019-01-22,0,13
+197,197,"Navathe, Kurt",0,M ,Active,1,0,87921,24,MA,2056,1983-04-26,US Citizen,No,Asian,2017-02-10,0,,,19,Indeed,Fully Meets,5.0,3,6,2019-02-25,0,17
+198,198,"Ndzi, Colombui",0,M ,Voluntarily Terminated,0,1,50470,0,MA,2110,1989-05-02,US Citizen,No,Black or African American,2011-09-26,1,2014-04-04,return to school,4,Diversity Job Fair,Fully Meets,4.3,3,0,2013-03-02,0,19
+199,199,"Ndzi, Horia",1,M ,Voluntarily Terminated,0,0,46664,0,MA,2421,1983-03-28,US Citizen,No,White,2013-04-01,1,2016-05-25,more money,5,Employee Referral,Fully Meets,3.18,3,0,2016-03-06,0,10
+200,200,"Newman, Richard ",1,M ,Active,0,0,48495,0,MA,2136,1977-04-08,US Citizen,No,White,2014-05-12,0,,,7,LinkedIn,Fully Meets,5.0,5,0,2019-02-18,0,11
+201,201,"Ngodup, Shari ",4,F,Active,0,1,52984,0,MA,1810,1983-04-26,US Citizen,No,Black or African American,2013-04-01,0,,,8,Diversity Job Fair,Exceeds,4.0,3,0,2019-02-13,0,12
+202,202,"Nguyen, Dheepa",0,F,Active,4,0,63695,11,GA,30428,1989-03-31,US Citizen,No,Two or more races,2013-07-08,0,,,16,Indeed,Fully Meets,5.0,5,0,2019-01-25,0,2
+203,203,"Nguyen, Lei-Ming",0,F,Active,0,0,62061,0,MA,2132,1984-07-07,US Citizen,No,White,2013-07-08,0,,,10,LinkedIn,Fully Meets,3.6,5,0,2019-01-02,0,4
+204,204,"Nowlan, Kristie",0,F,Active,0,0,66738,2,MA,1040,1985-11-23,US Citizen,No,White,2014-11-10,0,,,3,Indeed,Fully Meets,4.53,5,0,2019-01-16,0,5
+205,205,"O'hare, Lynn",0,F,Terminated for Cause,0,0,52674,0,MA,2152,1980-09-30,US Citizen,No,Two or more races,2014-03-31,1,2018-05-01,performance,2,LinkedIn,PIP,2.33,2,0,2018-03-09,6,3
+206,206,"Oliver, Brooke ",1,F,Voluntarily Terminated,0,0,71966,2,MA,2492,1983-04-26,US Citizen,No,Asian,2012-05-14,1,2013-08-19,unhappy,4,LinkedIn,Fully Meets,5.0,3,0,2013-07-02,0,17
+207,207,"Onque, Jasmine",0,F,Active,4,0,63051,11,FL,33174,1990-05-11,US Citizen,Yes,White,2013-09-30,0,,,16,Indeed,Fully Meets,4.28,3,0,2019-01-25,0,1
+208,208,"Osturnka, Adeel",1,M ,Active,0,0,47414,0,MA,2478,1976-12-11,US Citizen,No,White,2013-09-30,0,,,11,LinkedIn,Exceeds,5.0,3,0,2019-02-07,0,13
+209,209,"Owad, Clinton",0,M ,Active,0,0,53060,0,MA,1760,1979-11-24,US Citizen,No,Black or African American,2014-02-17,0,,,0,LinkedIn,Needs Improvement,4.25,3,0,2019-02-04,4,6
+210,210,"Ozark, Travis",0,M ,Active,4,0,68829,11,NC,27229,1982-05-19,US Citizen,No,White,2015-01-05,0,,,14,Website,Fully Meets,5.0,5,0,2019-01-14,0,18
+211,211,"Panjwani, Nina",1,F,Voluntarily Terminated,0,0,63515,0,MA,2351,1979-05-01,US Citizen,No,White,2011-02-07,1,2014-01-12,Another position,3,Google Search,Fully Meets,3.89,4,0,2013-03-04,0,7
+212,212,"Patronick, Lucas",0,M ,Voluntarily Terminated,2,1,108987,3,MA,1844,1979-02-20,US Citizen,No,Black or African American,2011-11-07,1,2015-09-07,Another position,6,Diversity Job Fair,Exceeds,5.0,5,3,2015-08-16,0,13
+213,213,"Pearson, Randall",1,M ,Voluntarily Terminated,1,0,93093,5,MA,2747,1984-09-05,US Citizen,No,White,2014-12-01,1,2016-05-01,performance,1,Employee Referral,Fully Meets,4.7,4,5,2016-01-16,0,19
+214,214,"Smith, Martin",0,M ,Voluntarily Terminated,0,0,53564,0,MA,2458,1988-03-17,US Citizen,No,Black or African American,2011-01-10,1,2017-12-28,career change,4,Google Search,Needs Improvement,3.54,5,0,2017-04-06,4,15
+215,215,"Pelletier, Ermine",1,F,Voluntarily Terminated,0,0,60270,2,MA,2472,1989-07-18,US Citizen,No,Asian,2011-07-05,1,2015-09-15,unhappy,5,CareerBuilder,Needs Improvement,2.4,5,0,2015-02-06,5,2
+216,216,"Perry, Shakira",0,F,Voluntarily Terminated,0,0,45998,0,MA,2176,1986-07-20,US Citizen,No,White,2011-05-16,1,2015-10-25,medical issues,5,LinkedIn,Fully Meets,3.45,4,0,2014-05-13,0,5
+217,217,"Peters, Lauren",1,F,Voluntarily Terminated,0,0,57954,2,MA,1886,1986-08-17,US Citizen,No,White,2011-05-16,1,2013-02-04,more money,7,Indeed,Exceeds,4.2,5,0,2013-01-10,0,12
+218,218,"Peterson, Ebonee  ",1,F,Voluntarily Terminated,0,0,74669,9,MA,2030,1977-05-09,US Citizen,No,White,2010-10-25,1,2016-05-18,Another position,13,Indeed,Fully Meets,4.16,5,0,2015-03-05,0,6
+219,219,"Petingill, Shana  ",1,F,Active,0,0,74226,2,MA,2050,1979-03-10,Eligible NonCitizen,No,Asian,2012-04-02,0,,,8,LinkedIn,Fully Meets,4.3,3,0,2019-01-14,0,14
+220,220,"Petrowsky, Thelma",1,F,Active,1,0,93554,5,MA,1886,1984-09-16,US Citizen,No,Black or African American,2014-11-10,0,,,1,Employee Referral,Exceeds,4.6,5,7,2019-01-04,0,16
+221,221,"Pham, Hong",1,M ,Voluntarily Terminated,0,0,64724,0,MA,2451,1988-03-06,US Citizen,No,Asian,2011-07-05,1,2012-11-30,more money,8,Google Search,Fully Meets,5.0,3,0,2012-02-20,0,13
+222,222,"Pitt, Brad ",0,M ,Active,0,0,47001,0,MA,2451,1981-11-23,US Citizen,No,White,2007-11-05,0,,,10,Google Search,Fully Meets,3.66,3,0,2019-02-25,0,15
+223,223,"Potts, Xana",1,F,Active,4,0,61844,11,KY,40220,1988-08-29,US Citizen,No,Black or African American,2012-01-09,0,,,16,Website,Fully Meets,4.2,5,0,2019-02-01,0,9
+224,224,"Power, Morissa",2,F,Voluntarily Terminated,0,0,46799,0,MA,1742,1984-10-15,Eligible NonCitizen,No,Asian,2011-05-16,1,2018-06-04,Another position,2,Google Search,Fully Meets,3.17,4,0,2018-04-02,0,14
+225,225,"Punjabhi, Louis  ",0,M ,Active,0,0,59472,0,MA,2109,1983-04-26,US Citizen,No,White,2014-01-06,0,,,11,Employee Referral,Fully Meets,4.8,3,0,2019-01-07,0,14
+226,226,"Purinton, Janine",2,F,Voluntarily Terminated,0,0,46430,0,MA,2474,1983-04-26,US Citizen,No,White,2012-09-24,1,2013-06-18,unhappy,2,Indeed,Fully Meets,4.5,5,0,2013-04-02,0,16
+227,227,"Quinn, Sean",1,M ,Voluntarily Terminated,2,1,83363,3,MA,2045,1984-11-06,Eligible NonCitizen,No,Black or African American,2011-02-21,1,2015-08-15,career change,13,Diversity Job Fair,Fully Meets,4.15,4,0,2014-04-19,0,4
+228,228,"Rachael, Maggie",1,F,Active,1,0,95920,17,MA,2110,1980-05-12,US Citizen,No,Black or African American,2016-10-02,0,,,19,Indeed,Fully Meets,4.4,4,6,2019-02-06,0,10
+229,229,"Rarrick, Quinn",2,M ,Voluntarily Terminated,0,0,61729,0,MA,2478,1984-12-31,US Citizen,No,White,2011-09-26,1,2018-04-07,more money,0,Indeed,Fully Meets,3.8,5,0,2018-02-04,0,19
+230,230,"Ren, Kylo",1,M ,Active,4,0,61809,11,ID,83706,1983-04-26,US Citizen,No,White,2014-05-12,0,,,14,CareerBuilder,Fully Meets,3.98,3,0,2019-01-28,0,4
+231,231,"Rhoads, Thomas",2,M ,Voluntarily Terminated,0,0,45115,0,MA,2176,1982-07-22,US Citizen,Yes,White,2011-05-16,1,2016-01-15,retiring,3,LinkedIn,Fully Meets,5.0,4,0,2015-03-30,0,11
+232,232,"Rivera, Haley  ",1,F,Active,0,0,46738,0,MA,2171,1983-04-26,US Citizen,No,Asian,2011-11-28,0,,,4,Google Search,Exceeds,4.36,5,0,2019-02-11,0,16
+233,233,"Roberson, May",2,F,Voluntarily Terminated,0,0,64971,2,MA,1902,1981-09-05,Eligible NonCitizen,No,Black or African American,2011-09-26,1,2011-10-22,return to school,10,Google Search,Fully Meets,4.5,4,0,2011-10-22,0,10
+234,234,"Robertson, Peter",1,M ,Voluntarily Terminated,0,0,55578,2,MA,2138,1983-04-26,US Citizen,No,White,2011-07-05,1,2012-02-08,Another position,2,Indeed,Fully Meets,4.2,5,0,2012-01-06,0,13
+235,235,"Robinson, Alain  ",1,M ,Voluntarily Terminated,0,0,50428,0,MA,1420,1974-01-07,US Citizen,No,Black or African American,2011-01-10,1,2016-01-26,attendance,5,Indeed,Fully Meets,5.0,3,0,2015-01-10,0,11
+236,236,"Robinson, Cherly",1,F,Terminated for Cause,0,0,61422,0,MA,1460,1985-01-07,US Citizen,No,White,2011-01-10,1,2016-05-17,attendance,7,Indeed,Needs Improvement,3.6,3,0,2016-04-05,4,16
+237,237,"Robinson, Elias",3,M ,Active,0,0,63353,0,MA,1730,1985-01-28,US Citizen,No,White,2013-07-08,0,,,8,Employee Referral,Exceeds,3.6,5,0,2019-02-11,0,4
+238,238,"Roby, Lori ",1,F,Active,1,0,89883,5,MA,1886,1981-10-11,US Citizen,No,White,2015-02-16,0,,,1,Employee Referral,Fully Meets,3.69,5,6,2019-02-14,0,15
+239,239,"Roehrich, Bianca",0,F,Voluntarily Terminated,1,0,120000,27,MA,2703,1983-04-26,US Citizen,Yes,White,2015-01-05,1,2018-11-10,Another position,1,LinkedIn,Fully Meets,3.88,3,7,2018-02-13,0,12
+240,240,"Roper, Katie",0,F,Active,1,0,150290,28,MA,2056,1983-04-26,US Citizen,No,Black or African American,2017-01-07,0,,,19,Indeed,Fully Meets,4.94,3,5,2019-02-06,0,17
+241,241,"Rose, Ashley  ",4,F,Active,0,0,60627,0,MA,1886,1974-12-05,US Citizen,No,White,2014-01-06,0,,,10,Website,Fully Meets,5.0,4,0,2019-01-31,0,8
+242,242,"Rossetti, Bruno",0,M ,Voluntarily Terminated,0,0,53180,0,MA,2155,1987-03-18,US Citizen,No,White,2011-04-04,1,2018-08-13,Another position,2,Google Search,Fully Meets,5.0,5,0,2018-07-02,0,4
+243,243,"Roup,Simon",0,M ,Active,1,0,140920,29,MA,2481,1983-04-26,US Citizen,No,White,2013-01-20,0,,,15,Indeed,Fully Meets,3.6,5,7,2019-02-18,0,13
+244,244,"Ruiz, Ricardo",2,M ,Voluntarily Terminated,1,1,148999,29,MA,1915,1983-04-26,US Citizen,No,Black or African American,2012-01-09,1,2015-11-04,hours,15,Diversity Job Fair,Fully Meets,4.3,4,6,2015-01-04,0,8
+245,245,"Saada, Adell",1,F,Active,2,0,86214,3,MA,2132,1986-07-24,US Citizen,No,White,2012-11-05,0,,,6,Indeed,Fully Meets,4.2,3,6,2019-02-13,0,2
+246,246,"Saar-Beckles, Melinda",0,F,Active,0,1,47750,0,MA,1801,1983-04-26,US Citizen,No,Black or African American,2016-07-04,0,,,11,Diversity Job Fair,Needs Improvement,2.6,4,0,2019-02-18,5,4
+247,247,"Sadki, Nore  ",0,M ,Voluntarily Terminated,0,0,46428,0,MA,2148,1974-12-21,US Citizen,No,White,2009-01-05,1,2018-07-30,relocation out of area,0,Google Search,Fully Meets,4.6,5,0,2018-02-05,0,7
+248,248,"Sahoo, Adil",1,M ,Active,0,0,57975,2,MA,2062,1986-04-26,US Citizen,No,White,2010-08-30,0,,,11,CareerBuilder,Fully Meets,4.1,3,0,2019-01-10,0,13
+249,249,"Salter, Jason",2,M ,Voluntarily Terminated,1,0,88527,5,MA,2452,1987-12-17,US Citizen,No,Black or African American,2015-01-05,1,2015-10-31,hours,1,LinkedIn,Fully Meets,4.2,3,5,2015-04-20,0,2
+250,250,"Sander, Kamrin",1,F,Active,0,0,56147,0,MA,2154,1988-07-10,US Citizen,No,Black or African American,2014-09-29,0,,,3,LinkedIn,Fully Meets,3.51,3,0,2019-02-18,0,2
+251,251,"Sewkumar, Nori",0,F,Active,0,0,50923,0,MA,2191,1975-03-10,US Citizen,No,Asian,2013-09-30,0,,,4,Google Search,Fully Meets,5.0,5,0,2019-02-06,0,14
+252,252,"Shepard, Anita ",1,F,Active,1,0,50750,19,MA,1773,1981-04-14,US Citizen,No,White,2014-09-30,0,,,9,LinkedIn,Fully Meets,3.31,3,6,2019-01-07,0,7
+253,253,"Shields, Seffi",1,F,Active,0,0,52087,0,MA,2149,1985-08-24,US Citizen,No,White,2013-08-19,0,,,5,LinkedIn,Fully Meets,4.81,4,0,2019-02-15,0,15
+254,254,"Simard, Kramer",1,M ,Active,1,0,87826,5,MA,2110,1983-04-26,US Citizen,Yes,White,2015-01-05,0,,,1,Employee Referral,Fully Meets,3.32,3,7,2019-01-14,0,16
+255,255,"Singh, Nan ",0,F,Active,3,0,51920,22,MA,2330,1988-05-19,US Citizen,No,White,2015-05-01,0,,,12,Website,Fully Meets,5.0,3,5,2019-01-15,0,2
+256,256,"Sloan, Constance",0,F,Voluntarily Terminated,0,0,63878,2,MA,1851,1987-11-25,US Citizen,No,White,2009-10-26,1,2015-04-08,maternity leave - did not return,0,CareerBuilder,Fully Meets,4.68,4,0,2015-04-02,0,20
+257,257,"Smith, Joe",0,M ,Active,0,0,60656,2,MA,2045,1983-04-26,US Citizen,No,White,2014-09-29,0,,,3,Indeed,Exceeds,4.3,3,0,2019-01-28,0,4
+258,258,"Smith, John",2,M ,Active,4,1,72992,16,MA,1886,1984-08-16,US Citizen,No,Black or African American,2014-05-18,0,,,18,Diversity Job Fair,Needs Improvement,2.4,4,0,2019-01-16,2,16
+259,259,"Smith, Leigh Ann",1,F,Voluntarily Terminated,3,1,55000,22,MA,1844,1987-06-14,US Citizen,No,Black or African American,2011-09-26,1,2013-09-25,career change,12,Diversity Job Fair,Fully Meets,3.8,4,4,2013-08-15,0,17
+260,260,"Smith, Sade",0,F,Active,0,0,58939,0,MA,2130,1983-04-26,US Citizen,No,White,2013-11-11,0,,,7,Employee Referral,Fully Meets,3.73,3,0,2019-01-24,0,16
+261,261,"Soto, Julia ",1,F,Active,1,0,66593,4,MA,2360,1983-04-26,US Citizen,No,Black or African American,2011-06-10,0,,,17,LinkedIn,Fully Meets,4.3,3,5,2019-02-08,0,19
+262,262,"Soze, Keyser",1,M ,Active,1,0,87565,15,MA,1545,1983-02-09,US Citizen,No,Asian,2016-06-30,0,,,9,LinkedIn,Fully Meets,3.27,4,5,2019-01-14,0,13
+263,263,"Sparks, Taylor  ",1,F,Active,0,0,64021,0,MA,2093,1983-04-26,US Citizen,No,White,2012-02-20,0,,,8,Indeed,PIP,2.4,2,1,2019-02-25,6,20
+264,264,"Spirea, Kelley",1,F,Active,0,0,65714,9,MA,2451,1975-09-30,US Citizen,No,White,2012-10-02,0,,,13,LinkedIn,Fully Meets,4.83,5,0,2019-02-14,0,15
+265,265,"Squatrito, Kristen",2,F,Voluntarily Terminated,0,0,62425,0,MA,2359,1983-04-26,US Citizen,No,White,2013-05-13,1,2015-06-29,unhappy,10,LinkedIn,Exceeds,4.1,4,0,2015-03-02,0,16
+266,266,"Stanford,Barbara  M",2,F,Active,0,0,47961,0,MA,2050,1982-08-25,US Citizen,No,Two or more races,2011-01-10,0,,,2,Google Search,Fully Meets,4.1,4,0,2019-02-07,0,9
+267,267,"Stansfield, Norman",1,M ,Active,4,0,58273,11,NV,89139,1974-05-09,US Citizen,No,White,2014-05-12,0,,,16,Website,PIP,1.81,2,0,2019-01-17,3,5
+268,268,"Steans, Tyrone  ",0,M ,Active,3,0,63003,10,MA,2703,1986-09-01,US Citizen,No,White,2014-09-29,0,,,12,Indeed,Fully Meets,3.9,5,5,2019-01-18,0,9
+269,269,"Stoica, Rick",1,M ,Active,0,0,61355,0,MA,2301,1985-03-14,US Citizen,No,Asian,2014-02-17,0,,,11,LinkedIn,Fully Meets,4.7,3,0,2019-01-11,0,4
+270,270,"Strong, Caitrin",1,F,Active,4,0,60120,11,MT,59102,1989-05-12,US Citizen,No,Black or African American,2010-09-27,0,,,14,Indeed,Fully Meets,4.1,4,0,2019-01-31,0,18
+271,271,"Sullivan, Kissy ",1,F,Active,0,0,63682,9,MA,1776,1978-03-28,US Citizen,No,Black or African American,2009-01-08,0,,,13,Indeed,Fully Meets,3.73,4,0,2019-01-24,0,12
+272,272,"Sullivan, Timothy",1,M ,Active,0,0,63025,0,MA,2747,1982-10-07,US Citizen,Yes,White,2015-01-05,0,,,0,Google Search,Fully Meets,4.36,5,0,2019-01-24,0,10
+273,273,"Sutwell, Barbara",0,F,Active,0,0,59238,0,MA,2718,1983-04-26,Eligible NonCitizen,No,Asian,2012-05-14,0,,,3,Indeed,Fully Meets,3.4,5,0,2019-01-31,0,13
+274,274,"Szabo, Andrew",0,M ,Active,2,0,92989,3,MA,2140,1983-05-06,US Citizen,No,White,2014-07-07,0,,,6,LinkedIn,Exceeds,4.5,5,5,2019-02-18,0,1
+275,275,"Tannen, Biff",1,M ,Active,1,0,90100,17,MA,2134,1987-10-24,US Citizen,No,White,2017-04-20,0,,,19,Indeed,Fully Meets,3.4,3,6,2019-01-02,0,14
+276,276,"Tavares, Desiree  ",1,F,Voluntarily Terminated,0,1,60754,0,MA,1801,1975-04-03,Non-Citizen,No,Black or African American,2009-04-27,1,2013-04-01,Another position,4,Diversity Job Fair,Fully Meets,4.5,5,0,2012-02-15,0,11
+277,277,"Tejeda, Lenora ",1,F,Voluntarily Terminated,0,0,72202,2,MA,2129,1983-04-26,US Citizen,No,White,2011-05-16,1,2017-07-08,Another position,3,Google Search,Fully Meets,3.93,3,0,2017-04-18,0,3
+278,278,"Terry, Sharlene ",0,F,Active,4,0,58370,11,OR,97756,1983-04-26,US Citizen,No,Black or African American,2014-09-29,0,,,16,Indeed,Fully Meets,3.69,3,0,2019-01-28,0,18
+279,279,"Theamstern, Sophia",0,F,Voluntarily Terminated,0,0,48413,0,MA,2066,1983-04-26,US Citizen,No,White,2011-07-05,1,2016-09-05,return to school,5,Indeed,Fully Meets,3.98,4,0,2016-03-02,0,1
+280,280,"Thibaud, Kenneth",3,M ,Voluntarily Terminated,0,0,67176,2,MA,2472,1975-09-16,US Citizen,No,White,2007-06-25,1,2010-08-30,military,4,Other,Fully Meets,4.1,4,0,2010-07-14,0,15
+281,281,"Tippett, Jeanette",2,F,Active,0,0,56339,0,MA,2093,1983-04-26,US Citizen,No,Black or African American,2013-02-18,0,,,8,Indeed,Fully Meets,4.21,5,0,2019-01-14,0,4
+282,282,"Torrence, Jack",4,M ,Active,4,0,64397,11,ND,58782,1983-04-26,US Citizen,No,White,2006-01-09,0,,,16,Indeed,Exceeds,4.1,3,0,2019-01-04,0,6
+283,283,"Trang, Mei",0,F,Active,0,0,63025,0,MA,2021,1983-05-16,US Citizen,No,White,2014-02-17,0,,,10,LinkedIn,Needs Improvement,2.44,5,0,2019-02-11,4,18
+284,284,"Tredinnick, Neville ",1,M ,Voluntarily Terminated,1,0,75281,19,MA,1420,1988-05-05,US Citizen,No,White,2015-01-05,1,2016-02-12,medical issues,9,CareerBuilder,Fully Meets,5.0,3,5,2015-04-15,0,11
+285,285,"True, Edward",0,M ,Voluntarily Terminated,2,1,100416,3,MA,2451,1983-06-14,Non-Citizen,No,Black or African American,2013-02-18,1,2018-04-15,medical issues,6,Diversity Job Fair,Fully Meets,4.6,3,4,2017-02-12,0,9
+286,286,"Trzeciak, Cybil",0,F,Voluntarily Terminated,0,0,74813,2,MA,1778,1985-03-15,US Citizen,No,White,2011-01-10,1,2014-07-02,unhappy,5,LinkedIn,Fully Meets,4.4,3,0,2014-01-05,0,5
+287,287,"Turpin, Jumil",1,M ,Active,1,0,76029,19,MA,2343,1983-04-26,Eligible NonCitizen,No,White,2015-03-30,0,,,9,Employee Referral,Fully Meets,5.0,4,7,2019-01-14,0,8
+288,288,"Valentin,Jackie",1,F,Active,4,0,57859,11,AZ,85006,1991-05-23,US Citizen,No,Two or more races,2011-07-05,0,,,14,Indeed,Fully Meets,2.81,3,0,2019-01-17,0,16
+289,289,"Veera, Abdellah ",2,M ,Voluntarily Terminated,0,0,58523,0,MA,2171,1987-01-31,US Citizen,No,White,2012-08-13,1,2016-02-05,maternity leave - did not return,2,LinkedIn,Exceeds,4.5,5,0,2016-02-01,0,15
+290,290,"Vega, Vincent",2,M ,Active,0,0,88976,9,MA,2169,1983-04-26,US Citizen,No,White,2011-08-01,0,,,13,Employee Referral,Fully Meets,3.93,3,0,2019-02-27,0,19
+291,291,"Villanueva, Noah",0,M ,Active,4,0,55875,11,ME,4063,1989-07-11,US Citizen,No,Asian,2012-03-05,0,,,14,Website,Fully Meets,4.5,4,0,2019-01-18,0,11
+292,292,"Voldemort, Lord",1,M ,Terminated for Cause,1,0,113999,6,MA,1960,1986-08-07,US Citizen,No,Black or African American,2015-02-16,1,2017-02-22,"no-call, no-show",1,Employee Referral,Fully Meets,4.33,3,7,2017-02-15,0,9
+293,293,"Volk, Colleen",1,F,Terminated for Cause,0,0,49773,0,MA,2747,1986-06-03,US Citizen,No,White,2011-09-26,1,2016-02-08,gross misconduct,11,Google Search,Exceeds,4.3,5,0,2015-02-01,0,18
+294,294,"Von Massenbach, Anna",0,F,Active,0,0,62068,0,MA,2124,1985-04-06,US Citizen,No,White,2015-07-05,0,,,0,LinkedIn,Fully Meets,3.21,3,0,2019-01-29,0,7
+295,295,"Walker, Roger",0,M ,Active,0,0,66541,2,MA,2459,1976-02-10,US Citizen,No,Black or African American,2014-08-18,0,,,7,Employee Referral,Fully Meets,3.11,5,0,2019-02-12,0,4
+296,296,"Wallace, Courtney  E",1,F,Voluntarily Terminated,0,1,80512,9,MA,2478,1983-04-26,US Citizen,No,Black or African American,2011-09-26,1,2012-01-02,Another position,13,Diversity Job Fair,Fully Meets,4.5,3,0,2012-01-02,0,5
+297,297,"Wallace, Theresa",0,F,Voluntarily Terminated,0,0,50274,0,MA,1887,1980-08-02,US Citizen,No,White,2012-08-13,1,2015-09-01,career change,3,CareerBuilder,Needs Improvement,2.5,3,0,2014-09-05,6,13
+298,298,"Wang, Charlie",0,M ,Active,1,0,84903,24,MA,1887,1981-07-08,US Citizen,No,Asian,2017-02-15,0,,,19,Indeed,Fully Meets,3.42,4,7,2019-01-04,0,17
+299,299,"Warfield, Sarah",3,F,Active,1,0,107226,15,MA,2453,1978-05-02,US Citizen,No,Asian,2015-03-30,0,,,9,Employee Referral,Fully Meets,4.2,4,8,2019-02-05,0,7
+300,300,"Whittier, Scott",0,M ,Voluntarily Terminated,0,0,58371,0,MA,2030,1987-05-24,US Citizen,Yes,White,2011-01-10,1,2014-05-15,hours,4,LinkedIn,Fully Meets,5.0,5,0,2014-05-15,0,11
+301,301,"Wilber, Barry",1,M ,Voluntarily Terminated,0,0,55140,0,MA,2324,1983-04-26,Eligible NonCitizen,No,White,2011-05-16,1,2015-09-07,unhappy,5,Website,Fully Meets,5.0,3,0,2015-02-15,0,7
+302,302,"Wilkes, Annie",2,F,Voluntarily Terminated,0,0,58062,0,MA,1876,1983-07-30,US Citizen,No,White,2011-01-10,1,2012-05-14,Another position,7,Google Search,Fully Meets,3.6,5,0,2011-02-06,0,9
+303,303,"Williams, Jacquelyn  ",0,F,Voluntarily Terminated,0,1,59728,0,MA,2109,1983-04-26,US Citizen,Yes,Black or African American,2012-01-09,1,2015-06-27,relocation out of area,7,Diversity Job Fair,Fully Meets,4.3,4,0,2014-06-02,0,16
+304,304,"Winthrop, Jordan  ",0,M ,Voluntarily Terminated,0,0,70507,2,MA,2045,1983-04-26,US Citizen,No,White,2013-01-07,1,2016-02-21,retiring,8,LinkedIn,Exceeds,5.0,3,0,2016-01-19,0,7
+305,305,"Wolk, Hang  T",0,F,Active,0,0,60446,2,MA,2302,1985-04-20,US Citizen,No,White,2014-09-29,0,,,10,LinkedIn,Fully Meets,3.4,4,0,2019-02-21,0,14
+306,306,"Woodson, Jason",0,M ,Active,0,0,65893,2,MA,1810,1985-05-11,US Citizen,No,White,2014-07-07,0,,,2,LinkedIn,Fully Meets,4.07,4,0,2019-02-28,0,13
+307,307,"Ybarra, Catherine ",0,F,Voluntarily Terminated,0,0,48513,0,MA,2458,1982-05-04,US Citizen,No,Asian,2008-09-02,1,2015-09-29,Another position,8,Google Search,PIP,3.2,2,0,2015-09-02,5,4
+308,308,"Zamora, Jennifer",0,F,Active,1,0,220450,30,MA,2067,1979-08-30,US Citizen,No,White,2010-04-10,0,,,13,Employee Referral,Exceeds,4.6,5,6,2019-02-21,0,16
+309,309,"Zhou, Julia",0,F,Active,1,0,89292,5,MA,2148,1979-02-24,US Citizen,No,White,2015-03-30,0,,,1,Employee Referral,Fully Meets,5.0,3,5,2019-02-01,0,11
+310,310,"Zima, Colleen",3,F,Active,0,0,45046,0,MA,1730,1978-08-17,US Citizen,No,Asian,2014-09-29,0,,,10,LinkedIn,Fully Meets,4.5,5,0,2019-01-30,0,2
